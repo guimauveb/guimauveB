@@ -4,9 +4,6 @@ My interests range from low-level stuff, operating systems, C/C++ to Python, Jav
 
 I share projects and what I'm currently working on.
 
-<!--
-**guimauveb/guimauveB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on my website.
 - 🌱 I’m currently learning how operating systems work with OStep.
