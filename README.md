@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 My interests range from low-level stuff, operating systems, C/C++ to Python, Javascript and web applications. 
 
