@@ -3,3 +3,5 @@
 My interests range from low-level stuff, operating systems, C/C++, Rust & Wasm to Python, Typescript/Javascript and web applications in general. 
 
 I share projects and what I'm currently working on.
+
+I'm currently focusing a lot on Rust 🦀
